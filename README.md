@@ -26,7 +26,6 @@ The environment consists of two web servers hosting DVWA behind an AWS Applicati
 * Designed an AI security agent concept to help analyze and prioritize security alerts.
 
 ---
-
 ## Why This Project Matters
 
 Cloud environments generate a large amount of security data every day. Without centralized monitoring, it becomes difficult to identify suspicious activity or investigate incidents.
